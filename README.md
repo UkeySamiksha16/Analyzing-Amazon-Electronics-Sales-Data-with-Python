@@ -11,7 +11,7 @@ Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/S
 
 ### Dataset:
 #### The dataset used in this project is available publicly on Kaggle: https:
-- Link : [www.kaggle.com/datasets/edusanketdk/electronics](https://drive.google.com/drive/folders/1HoKB9Pa7G4wAtj-PZ3u5cYJk_QhwhA2R?usp=drive_link)
+- Link : (https://drive.google.com/drive/folders/1HoKB9Pa7G4wAtj-PZ3u5cYJk_QhwhA2R?usp=drive_link)
 
 - Please note that you may need to create a free Kaggle account to access the dataset.
 
@@ -22,6 +22,6 @@ Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/S
 - [ ] Clean and preprocess data
 - [ ] Conduct exploratory data analysis
 - [ ] Draw conclusions and insights
-
+<img src="https://github.com/samiksha/repo/assets/image.png" alt="Alt text" width="500" height="300">
 
 
