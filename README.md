@@ -17,7 +17,7 @@ Please note that you may need to create a free Kaggle account to access the data
 
 ### Task List:
 
-- [ ] Import libraries and load data
+- ( ) Import libraries and load data
 - [ ] Clean and preprocess data
 - [ ] Conduct exploratory data analysis
 - [ ] Draw conclusions and insights
