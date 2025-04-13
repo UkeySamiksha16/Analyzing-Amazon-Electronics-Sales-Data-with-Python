@@ -22,6 +22,33 @@ Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/S
 - [ ] Clean and preprocess data
 - [ ] Conduct exploratory data analysis
 - [ ] Draw conclusions and insights
-<img src="https://github.com/samiksha/repo/assets/image.png" alt="Alt text" width="500" height="300">
+
+### Following are Outputs Generated from File
+<img src="https://github.com/UkeySamiksha16/Analyzing-Amazon-Electronics-Sales-Data-with-Python/blob/main/1.png" alt="Alt text" width="500" height="300">
+
+<img src="https://github.com/UkeySamiksha16/Analyzing-Amazon-Electronics-Sales-Data-with-Python/blob/main/2.png" alt="Alt text" width="500" height="300">
+
+<img src="https://github.com/UkeySamiksha16/Analyzing-Amazon-Electronics-Sales-Data-with-Python/blob/main/3.png" alt="Alt text" width="500" height="300">
+
+<img src="https://github.com/UkeySamiksha16/Analyzing-Amazon-Electronics-Sales-Data-with-Python/blob/main/4.png" alt="Alt text" width="500" height="300">
+
+<img src="https://github.com/UkeySamiksha16/Analyzing-Amazon-Electronics-Sales-Data-with-Python/blob/main/5.png" alt="Alt text" width="500" height="300">
+
+<img src="https://github.com/UkeySamiksha16/Analyzing-Amazon-Electronics-Sales-Data-with-Python/blob/main/6.png" alt="Alt text" width="500" height="300">
+
+<img src="https://github.com/UkeySamiksha16/Analyzing-Amazon-Electronics-Sales-Data-with-Python/blob/main/7.png" alt="Alt text" width="500" height="300">
+
+<img src="https://github.com/UkeySamiksha16/Analyzing-Amazon-Electronics-Sales-Data-with-Python/blob/main/8.png" alt="Alt text" width="500" height="300">
+
+<img src="https://github.com/UkeySamiksha16/Analyzing-Amazon-Electronics-Sales-Data-with-Python/blob/main/9.png" alt="Alt text" width="500" height="300">
+
+<img src="https://github.com/UkeySamiksha16/Analyzing-Amazon-Electronics-Sales-Data-with-Python/blob/main/10.png" alt="Alt text" width="500" height="300">
+
+<img src="https://github.com/UkeySamiksha16/Analyzing-Amazon-Electronics-Sales-Data-with-Python/blob/main/11.png" alt="Alt text" width="500" height="300">
+
+<img src="https://github.com/UkeySamiksha16/Analyzing-Amazon-Electronics-Sales-Data-with-Python/blob/main/12.png" alt="Alt text" width="500" height="300">
+
+
+
 
 
